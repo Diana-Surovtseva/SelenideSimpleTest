@@ -36,11 +36,7 @@
     </build>
 
     <dependencies>
-        <dependency>
-            <groupId>Hillel</groupId>
-            <artifactId>SelenideProject</artifactId>
-            <version>1.0-SNAPSHOT</version>
-        </dependency>
+
         <dependency>
             <groupId>org.seleniumhq.selenium</groupId>
             <artifactId>selenium-java</artifactId>
