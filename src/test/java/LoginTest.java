@@ -11,6 +11,7 @@ public class LoginTest {
 
     @BeforeMethod
     public void setUp() {
+
         loginPage = new LoginPage();
         homePage = new HomePage();
         Configuration.browser = "firefox";
