@@ -24,5 +24,6 @@ public class LoginTest {
         loginPage.setUserPassInput();
         loginPage.clickLogBut();
         homePage.userIconIsDisplayed();
+        homePage.captureScreenshot();
     }
 }
